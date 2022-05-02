@@ -1,1 +1,1 @@
-check tableschema.txt for TABLE and DATABASE config.
+check schema.txt for TABLE and DATABASE config.
