@@ -32,4 +32,6 @@ books_users table =>
         return tinyint(1),
         created DATETIME DEFAULT NULL,
         modified DATETIME DEFAULT NULL
-    )
+    );
+
+    Create an admin user in table users and set his role to 'admin'. Use phpMyadmin to do this.
